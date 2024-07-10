@@ -31,4 +31,4 @@ Technologies Used:
 
 Portfolio Website Link:
 -----------------
-<a href="https://paarthsoni.pythonanywhere.com/" target="__blank">Click Here </a>
+<a href="https://paarthsoni.pythonanywhere.com/" target="_blank">Click Here </a>
